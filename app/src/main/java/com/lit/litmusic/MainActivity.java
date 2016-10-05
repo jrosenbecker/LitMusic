@@ -1,6 +1,5 @@
 package com.lit.litmusic;
 
-import android.media.audiofx.Visualizer;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
